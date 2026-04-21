@@ -1,0 +1,7 @@
+echo "venv/" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "vectorstore/" >> .gitignore
+echo "data/" >> .gitignoreecho "venv/" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "vectorstore/" >> .gitignore
+echo "data/" >> .gitignore
